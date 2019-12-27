@@ -1,0 +1,12 @@
+name: WWBackWW
+version: 1.2.1
+api: 3.10.0
+main: WWEnzoWW\Back
+author: WWEnzoWW
+
+commands:
+  back:
+    description: "§ePermet de retourner a sa derniere mort"
+    usage: "/back"
+    aliases: ['bck']
+    permission: use.back
